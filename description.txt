@@ -1,0 +1,31 @@
+Bounce Back is a mcontent mod for Terraria.
+Currently only has prehardmode content.
+I'm currently updating it for hardmode and further fleshing out the content in this mod. I want to add more serious classes as well but I highly value the uniqueness.
+I also am trying to learn to write AI better so I can have unique bosses. I think bosses are the deciding factor for mods being good or not. 
+
+So far it adds:
+-A new class: The Bouncier, who deals resilience damage by throwing bouncing balls. I don't care if you think it should be included in melee or throwing.
+-A subclass: that hits bouncy balls with mallets
+-A boss right before WoF
+-A curse that you may have to cure yourself of
+-Two new town npcs:
+	-The Fortune Hunter
+	-The School Girl
+-A gachapon with 3 types of gacha throughout prehardmode as you beat bosses that include unique items, vanities, weapons, and other useful things
+-A few swords
+-A summoning weapon
+-A yoyo
+-A bunch of bouncy balls
+-Four mallets
+
+Bouncier:
+As a bouncier you can choose to focus solely on throwing bouncy balls, focus on mallets, or do both. This class has two armor sets available so far, a potion, and
+2 accessories dedicated to it.
+
+The Fortune Hunter:
+(Requires: Rubber Band Ball in inventory)
+A pretty basic npc. Sells a unique sword she found in the desert. She also may come across a certain 'book' that contains a powerful curse. 
+
+The School Girl:
+(Requires: Ten silver in inventory)
+A girl who likes to collect figures and toys. She can sell you 3 types of gachas but watch out. You could end up broke with nothing to your name other than some seaweed.
