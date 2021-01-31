@@ -1,7 +1,10 @@
-Bounce Back is a mcontent mod for Terraria.
+Rebound is a content mod for Terraria.
 Currently only has prehardmode content.
 I'm currently updating it for hardmode and further fleshing out the content in this mod. I want to add more serious classes as well but I highly value the uniqueness.
 I also am trying to learn to write AI better so I can have unique bosses. I think bosses are the deciding factor for mods being good or not. 
+
+Join the discord
+https://discord.gg/PmxhkVMhcc
 
 So far it adds:
 -A new class: The Bouncier, who deals resilience damage by throwing bouncing balls. I don't care if you think it should be included in melee or throwing.
